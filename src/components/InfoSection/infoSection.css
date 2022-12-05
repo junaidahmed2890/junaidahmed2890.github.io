@@ -1,0 +1,31 @@
+.info-section
+{
+    /* border: 2px solid var(--card-broder);
+    
+    /* border-radius:24px; */
+    background: var(--text-gradient-1);
+    padding: 2px;
+    border-radius: 18px ; 
+}
+.is-heading
+{
+    /* font-size: 36px;
+
+    font-weight: 700;
+    padding: 12px; */
+    background-color: var(--background);
+    font-size: 36px;
+    font-weight: 700;
+    border-radius: 18px 18px 0px 0px ; /*TL TR BR BL*/
+    padding-top: 20px;
+    padding-bottom: 15px;      
+}
+.is-items-container
+{
+    display: flex;
+    justify-content: space-around;
+    background-color: var(--background);
+    margin-top: 1px;
+    border-radius: 18px;
+    border-radius:0px 0px  18px 18px ;
+}

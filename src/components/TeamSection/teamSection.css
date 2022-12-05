@@ -1,0 +1,59 @@
+.trending-nfts
+{
+    padding:108px 0px ;
+    position: relative;
+}
+.tn-title
+{
+    font-size: 46px;
+    font-weight: 700;
+    padding: 24px;
+    margin-bottom: 36px;
+    text-transform: uppercase;
+    
+}
+
+.tn-bg-blob
+{
+    height: 10px;
+    width: 10px;
+    background-color: var(--bg-blob);
+    filter:blur(100.58px);
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    transform: translate(-50%);
+}
+
+.tc-ui-username
+{
+    font-size: 18px;
+    font-weight: 600px;
+
+}
+.tc-ui-userhandle
+{
+    font-size: 14px;
+    opacity: 0.7;
+
+}
+.tc-solana-log
+{
+    height: 36px;
+}
+.tc-solana-logo{
+    height: 36px;
+}
+.tn-btn
+{
+    margin-top: 36px;
+}
+.seemore-btn
+{
+    font-size: 14px;
+
+}
+.tc-ui-left
+{
+    display: flex;
+}
